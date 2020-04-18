@@ -1,4 +1,4 @@
-# Fibonaccis-Melody
+# Fibonaccis Melody
 A simple C program to print musical notes based on the Fibonacci Sequence.
 
 A musical note was assigned to each number contained in the [0-9] scale. When checking the Fibonacci sequence numbers, the program will print the note corresponding to the musical note number.
